@@ -1,7 +1,7 @@
 const express = require('express')
 const server = express()
 
-const PORT = process.env.PORT || 2323
+const PORT = process.env.PORT || 2222
 
 const tasks_route = require('./routes/tasks')
 
